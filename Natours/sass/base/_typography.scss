@@ -45,7 +45,7 @@ body {
     letter-spacing: .2rem;
 
     &:hover {
-        transform: skewY(20deg) skewX(15deg) scale(1.1);
+        transform: skewY(4deg) skewX(1.5deg) scale(.9);
         text-shadow: .5rem 1rem 2rem rgba($color-black, .2);
     }
 }
